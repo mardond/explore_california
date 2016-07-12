@@ -11,4 +11,4 @@ assets/videos/
 !assets/videos/tour_*.mp4
 beaches/
 boardwalks/
-!boardwalks/long-beach.html
+!boardwalks\long-beach.html
